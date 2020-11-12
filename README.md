@@ -1,1 +1,4 @@
-This is Alison's first git project!
+Hello,
+
+I'm an international development professional making the switch to tech. 
+
